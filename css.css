@@ -1,0 +1,28 @@
+/* @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0a1b22;
+}
+/* .banner{
+    background: url(./img/banner/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    width: 100%;
+} */
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.icon{
+    top: 19%;
+    right: 11%;
+    transform: translateX(-11%);
+}
